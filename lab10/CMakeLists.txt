@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 4.0)
-project(lab10)
+project(.)
 
 set(CMAKE_CXX_STANDARD 14)
 
